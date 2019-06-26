@@ -1,7 +1,7 @@
 Antes
 
-![Imagens]/(sol.jpg)
+![Imagens](sol.jpg)
 
 Depois
 
-![Imagens]/(sol_result.jpg)
+![Imagens](sol_result.jpg)

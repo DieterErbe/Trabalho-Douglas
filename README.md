@@ -1,2 +1,2 @@
-![](image/(sol.jpg))
-![](image/(sol_result.jpg))
+![](imagens/(sol.jpg))
+![](imagens/(sol_result.jpg))

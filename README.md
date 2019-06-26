@@ -1,7 +1,8 @@
 Antes
 
-![Imagens](sol.jpg)
+(![alt text](https://github.com/DieterErbe/Trabalho-Douglas/blob/master/Imagens/sol.jpg)
 
 Depois
 
-![Imagens](sol_result.jpg)
+(![alt text]
+
